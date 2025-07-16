@@ -1,5 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likith8951&label=Profile%20views&color=0e75b6&style=flat" alt="likith8951" /> </p>
 
 - 🔭 I’m currently working on **Smart Health tracking System**
@@ -11,15 +12,11 @@
 - 💬 Ask me about **Full Stack Wed development, Data Structures, PowerBI Tool**
 
 - 📫 How to reach me **likithram64@gmail.com**
-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=likith8951&show_icons=true&locale=en&layout=compact" alt="likith8951" /></p>
 
 
 
 # 💫 About Me:
  
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_likith_2003_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/likith-s-n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/likith_s12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likithram64@gmail.com) 
 
@@ -32,6 +29,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Likith8951&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=likith8951&show_icons=true&locale=en&layout=compact" alt="likith8951" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
