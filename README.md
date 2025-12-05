@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Django FrameWork**
 
-- 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
+- 👨‍💻 All of my projects are available at [https://github.com/Likith8951](https://github.com/Likith8951)
 
 - 💬 Ask me about **Full Stack Wed development, Data Structures, PowerBI Tool**
 
