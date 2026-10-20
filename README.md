@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likith8951&label=Profile%20views&color=0e75b6&style=flat" alt="likith8951" /> </p>
 
-- 🔭 I’m currently working on **Smart Health tracking System**
-
-- 🌱 I’m currently learning **React and Django FrameWork**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Likith8951](https://github.com/Likith8951)
 
 - 💬 Ask me about **Full Stack Wed development, Data Structures, PowerBI Tool**
